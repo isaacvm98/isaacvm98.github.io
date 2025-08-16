@@ -1,22 +1,26 @@
 ---
-layout: default
-title: Projects
 permalink: /projects/
+title: "Projects"  
+layout: single
+author_profile: true
 ---
+## Legal AI Platform (Fiscal Mind)
 
-# Projects
+AI-powered tax compliance system for Mexican VAT regulations. Multi-agent workflow using Google Gemini 2.0 and OpenAI models with RAG implementation.
 
+
+**Architecture:** FastAPI backend, Supabase integration, Neo4j knowledge graphs, Voyage AI embeddings  
+**Performance:** 95% similarity threshold, 40% API cost reduction through intelligent caching
 ## Portfolio Optimization Suite
-[Repository](https://github.com/isaacvm98/portfolio-optimization)
 
 Implementation of Markowitz mean-variance, Black-Litterman, risk parity, and VaR optimization. Hidden Markov Model for regime detection. Transaction cost modeling.
 
 **Tech:** Python, CVXPY, HMMlearn, PyPortfolioOpt
 
 ## NCAA March Madness (Top 1%)
-[Repository](https://github.com/isaacvm98/march-madness)
+[Leaderboard](https://www.kaggle.com/competitions/march-machine-learning-mania-2023/leaderboard)
 
-12th place out of 1,200 teams. Hierarchical Bayesian model with XGBoost ensemble. Mixed effects regression for conference dependencies.
+17th place out of 1,200 teams. Hierarchical Bayesian model with XGBoost ensemble. Mixed effects regression for conference dependencies.
 
 **Tech:** Python, XGBoost, statsmodels, Bayesian inference
 
@@ -31,7 +35,7 @@ Poverty-crime relationships across Mexico's 32 states. Spatial lag model with Mo
 
 ## Steel Manufacturing Analysis
 
-Root cause analysis of defects using ANOVA and anomaly detection. Led to $2M equipment investment, 25% defect reduction.
+Root cause analysis of defects using ANOVA and anomaly detection. 
 
 **Methods:** Multi-factor ANOVA, isolation forest, control charts
 
@@ -43,7 +47,7 @@ Production implementation of Deaton & Muellbauer model for pharmaceutical demand
 
 ## NBA Timeout Analysis
 
-[Medium Article](https://medium.com/@isaacvm98/analyzing-nba-timeouts) - Multilevel logistic regression on timeout effectiveness. 10,000+ views.
+[Medium Article](https://medium.com/@ivm9816/analyzing-nba-timeouts-29df987f076a) - Multilevel logistic regression on timeout effectiveness. 10,000+ views.
 
 **Method:** Hierarchical modeling accounting for team and coach effects
 

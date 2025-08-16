@@ -1,8 +1,7 @@
 ---
-layout: default
+layout: home
+author_profile: true
 ---
-
-# Isaac Vergara
 
 Data Scientist | Economist | Duke MIDS 2025-2027
 
@@ -12,7 +11,7 @@ Data Scientist | Economist | Duke MIDS 2025-2027
 
 **Education**
 
-Duke University - MS Data Science (50% scholarship)  
+Duke University - MS Data Science (Duke 50% scholarship + CONACYT Mexico scholarship)  
 Universidad Panamericana - BS Economics (merit scholarship)  
 London School of Economics - Summer Program 2018
 
@@ -20,13 +19,13 @@ London School of Economics - Summer Program 2018
 
 Enable Global (2023-2025) - Semi Sr. Data Scientist  
 Entropia AI (2021-2023) - Data Scientist  
-IQVIA (2020-2021) - Consulting Intern
+Fiscal Mind (2025-) - Technical Cofounder 
 
 **Selected Projects**
 
-[Portfolio Optimization Suite](https://github.com/isaacvm98/portfolio-optimization) - Markowitz, Black-Litterman, HMM regime detection, transaction costs
+Portfolio Optimization Suite for Mexican Stock Market - Markowitz, Black-Litterman, HMM regime detection, transaction costs
 
-[March Madness Prediction](https://github.com/isaacvm98/march-madness) - 12th/1200 teams, hierarchical Bayesian modeling
+March Madness Prediction - 12th/1200 teams, hierarchical Bayesian modeling
 
 Spatial Econometrics - Poverty-crime analysis across Mexico using spatial lag models
 
@@ -34,10 +33,10 @@ Steel Defect Analysis - ANOVA, anomaly detection, $2M business impact
 
 **Technical Skills**
 
-Python, R, SQL, C++  
-scikit-learn, pandas, statsmodels, CVXPY, PyTorch  
+Python, R, SQL  
+scikit-learn, pandas, statsmodels, CVXPY, PyTorch
 Econometrics, time series, spatial modeling, market research
 
 **Publications**
 
-"Analyzing NBA Timeouts" - Medium, editor´s selection, multilevel logistic regression analysis
+["Analyzing NBA Timeouts"](https://medium.com/@ivm9816/analyzing-nba-timeouts-29df987f076a) - Medium, editor´s selection, multilevel logistic regression analysis
