@@ -55,4 +55,4 @@ Universidad Panamericana, Mexico City
 - Basketball Team Captain (2016-2017)
 - Treasurer, Economics Student Society (2020-2021)
 
-[Download Full CV](your-cv-link.pdf){: .btn}
+[Download Full CV](Academic_CV_Isaac_Vergara_2025){: .btn}

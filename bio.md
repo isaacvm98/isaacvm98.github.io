@@ -1,38 +1,21 @@
 ---
 layout: default
-title: Bio
+title: About
 permalink: /bio/
 ---
 
-# About Me
+# About
 
-I'm a Data Scientist with a unique blend of economic theory and machine learning expertise. My journey in data science began during my economics studies at Universidad Panamericana, where I discovered my passion for using data to solve complex business problems.
+Economics graduate from Universidad Panamericanaw ith 4 years production ML experience. Currently pursuing MS Data Science at Duke University.
 
-## Professional Journey
+## Background
 
-Currently working as a Semi Sr. Data Scientist at Enable Global, I focus on developing data science solutions for Operational Technology (OT) challenges. My work involves everything from analyzing steel manufacturing processes to building automated data quality systems.
+Started in economics with focus on econometrics and market research. Transitioned to data science through internship at Entropía AI. Built production ML systems at Entropia AI and Enable Global.
 
-Previously at Entropia AI, I specialized in implementing state-of-the-art models and creating end-to-end data science solutions. One of my proudest achievements was developing a production-ready Almost Ideal Demand System (AIDS) model, translating complex economic theory into practical business applications.
+## Technical Focus
 
-## Academic Background
+Statistical modeling, econometric analysis, market research methods, production ML systems
 
-- Bachelor's in Economics from Universidad Panamericana
-- Microsoft Certified Azure Data Scientist
-- Specialized training in Natural Language Processing
-- Alumni of London School of Economics Political and Economic Summer Program
+---
 
-## Sports and Leadership
-
-Basketball has been a significant part of my journey, teaching me valuable lessons in leadership and teamwork. As a former team captain who led the team to a National High School Championship, I've learned how to perform under pressure and lead diverse teams toward common goals.
-
-## Current Focus
-
-I'm particularly interested in:
-- Applying machine learning to solve real-world business problems
-- Developing innovative solutions in sports analytics
-- Creating automated systems for data quality and analysis
-- Exploring the intersection of economic theory and data science
-
-## Personal Projects
-
-In my free time, I work on sports analytics projects, particularly in basketball and American football. I've developed various tools and platforms for analyzing player performance and game statistics, combining my passion for sports with my technical expertise.
+[Home](/) | [Projects](/projects) | [CV](Academic_CV_Isaac_Vergara_2025.pdf)

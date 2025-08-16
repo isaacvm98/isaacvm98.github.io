@@ -8,7 +8,7 @@ Data Scientist specializing in machine learning and statistical modeling. Curren
 
 👤 [About Me](/bio) Learn about my journey and expertise
 
-📄 [Full CV](assets/IsaacVergaraCV.pdf) See my complete professional background
+📄 [Full CV](Academic_CV_Isaac_Vergara_2025.pdf) See my complete professional background
 
 ## Connect With Me
 
