@@ -5,7 +5,7 @@ author_profile: true
 
 **Education**
 
-Duke University - MS Data Science (Duke 50% scholarship + CONACYT Mexico scholarship)  
+Duke University - MS Data Science (Duke scholarship + CONACYT Mexico scholarship)  
 Universidad Panamericana - BS Economics (merit scholarship)  
 London School of Economics - Summer Program 2018
 
