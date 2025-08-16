@@ -3,12 +3,6 @@ layout: home
 author_profile: true
 ---
 
-Data Scientist | Economist | Duke MIDS 2025-2027
-
-[GitHub](https://github.com/isaacvm98) | [CV](Academic_CV_Isaac_Vergara_2025.pdf) | isaacvergaram@hotmail.com
-
----
-
 **Education**
 
 Duke University - MS Data Science (Duke 50% scholarship + CONACYT Mexico scholarship)  
