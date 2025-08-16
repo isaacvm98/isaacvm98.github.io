@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 ---
 
-Economics graduate from Universidad Panamericanaw ith 4 years production ML experience. Currently pursuing MS Data Science at Duke University with dual scholarship support: Duke merit scholarship and CONACYT Mexico postgraduate scholarship.
+Economics graduate from Universidad Panamericana with 4 years of Data Science experience. Currently pursuing MS Data Science at Duke University with dual scholarship support: Duke merit scholarship and CONACYT Mexico postgraduate scholarship.
 
 ## Background
 
