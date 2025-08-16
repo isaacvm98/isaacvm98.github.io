@@ -29,7 +29,7 @@ author:
       url: "https://linkedin.com/in/isaac-vergara"
     - label: "CV"
       icon: "fas fa-fw fa-file-pdf"
-      url: "Isaac_Vergara_CV_2025.pdf"
+      url: "Academic_CV_Isaac_Vergara_2025.pdf" # Ensure this file is in the root or specify the correct path
 
 # Site Footer
 footer:
